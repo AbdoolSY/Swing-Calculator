@@ -6,7 +6,8 @@
 
 ### GitHub Username: AbdoolSY
 
-### Description: This is a simple GUI-based calculator built using Java Swing and AWT. It performs basic arithmetic operations such as:
+### Description: 
+##### This is a simple GUI-based calculator built using Java Swing and AWT. It performs basic arithmetic operations such as:
 
 ##### Addition (+)
 
